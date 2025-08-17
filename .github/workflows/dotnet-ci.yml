@@ -1,0 +1,28 @@
+name: .NET CI
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '8.0.100' 
+
+      - name: Dependencies
+        run: dotnet restore RWFTracker.sln
+
+      - name: Build
+        run: dotnet build RWFTracker.sln --no-restore --configuration Release
+
+      - name: Test
+        run: dotnet test RWFTracker.sln --no-build --configuration Release --logger "console;verbosity=detailed"

@@ -14,7 +14,7 @@ namespace RWFTracker.Infastructure.Adapters.RaiderIO
         private HttpClient _httpClient = new();
 
         private const string RaiderIOEndpoint =
-            @"https://raider.io/api/v1/raiding/raid-rankings?raid=manaforge-omega&difficulty=mythic&region=world&limit=50&page=0";
+            @"https://raider.io/api/v1/raiding/raid-rankings?raid=manaforge-omega&difficulty=mythic&region=world&limit=10&page=0";
 
         public async Task<RaidRankingsResponse> GetDataAsync()
         {
