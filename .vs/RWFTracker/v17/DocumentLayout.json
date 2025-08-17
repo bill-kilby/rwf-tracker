@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "E:\\BK\\_CODE\\rwf-tracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EED28C3C-B954-483C-B8C9-B990E2F6E52F}|Source\\App\\RWFTracker.Application\\RWFTracker.Application.csproj|e:\\bk\\_code\\rwf-tracker\\source\\app\\rwftracker.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EED28C3C-B954-483C-B8C9-B990E2F6E52F}|Source\\App\\RWFTracker.Application\\RWFTracker.Application.csproj|solutionrelative:source\\app\\rwftracker.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4DC14AE5-03E4-43A7-9EA3-1CC69BF24736}|Source\\Test\\RWFTracker.Infrastructure.Tests\\RWFTracker.Infrastructure.Tests.csproj|e:\\bk\\_code\\rwf-tracker\\source\\test\\rwftracker.infrastructure.tests\\adapters\\raiderio\\raiderioapiclientintegrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC14AE5-03E4-43A7-9EA3-1CC69BF24736}|Source\\Test\\RWFTracker.Infrastructure.Tests\\RWFTracker.Infrastructure.Tests.csproj|solutionrelative:source\\test\\rwftracker.infrastructure.tests\\adapters\\raiderio\\raiderioapiclientintegrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DC14AE5-03E4-43A7-9EA3-1CC69BF24736}|Source\\Test\\RWFTracker.Infrastructure.Tests\\RWFTracker.Infrastructure.Tests.csproj|e:\\bk\\_code\\rwf-tracker\\source\\test\\rwftracker.infrastructure.tests\\adapters\\raiderio\\translators\\raideriotranslatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DC14AE5-03E4-43A7-9EA3-1CC69BF24736}|Source\\Test\\RWFTracker.Infrastructure.Tests\\RWFTracker.Infrastructure.Tests.csproj|solutionrelative:source\\test\\rwftracker.infrastructure.tests\\adapters\\raiderio\\translators\\raideriotranslatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CA93B3-C8AD-4121-8DEB-271E89446DD3}|Source\\App\\RWFTracker.Infastructure\\RWFTracker.Infastructure.csproj|e:\\bk\\_code\\rwf-tracker\\source\\app\\rwftracker.infastructure\\adapters\\raiderio\\translators\\raideriotranslator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CA93B3-C8AD-4121-8DEB-271E89446DD3}|Source\\App\\RWFTracker.Infastructure\\RWFTracker.Infastructure.csproj|solutionrelative:source\\app\\rwftracker.infastructure\\adapters\\raiderio\\translators\\raideriotranslator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CA93B3-C8AD-4121-8DEB-271E89446DD3}|Source\\App\\RWFTracker.Infastructure\\RWFTracker.Infastructure.csproj|e:\\bk\\_code\\rwf-tracker\\source\\app\\rwftracker.infastructure\\adapters\\raiderio\\data\\encounterpull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CA93B3-C8AD-4121-8DEB-271E89446DD3}|Source\\App\\RWFTracker.Infastructure\\RWFTracker.Infastructure.csproj|solutionrelative:source\\app\\rwftracker.infastructure\\adapters\\raiderio\\data\\encounterpull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CA93B3-C8AD-4121-8DEB-271E89446DD3}|Source\\App\\RWFTracker.Infastructure\\RWFTracker.Infastructure.csproj|e:\\bk\\_code\\rwf-tracker\\source\\app\\rwftracker.infastructure\\adapters\\raiderio\\data\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CA93B3-C8AD-4121-8DEB-271E89446DD3}|Source\\App\\RWFTracker.Infastructure\\RWFTracker.Infastructure.csproj|solutionrelative:source\\app\\rwftracker.infastructure\\adapters\\raiderio\\data\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CA93B3-C8AD-4121-8DEB-271E89446DD3}|Source\\App\\RWFTracker.Infastructure\\RWFTracker.Infastructure.csproj|e:\\bk\\_code\\rwf-tracker\\source\\app\\rwftracker.infastructure\\adapters\\raiderio\\data\\realm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CA93B3-C8AD-4121-8DEB-271E89446DD3}|Source\\App\\RWFTracker.Infastructure\\RWFTracker.Infastructure.csproj|solutionrelative:source\\app\\rwftracker.infastructure\\adapters\\raiderio\\data\\realm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CA93B3-C8AD-4121-8DEB-271E89446DD3}|Source\\App\\RWFTracker.Infastructure\\RWFTracker.Infastructure.csproj|e:\\bk\\_code\\rwf-tracker\\source\\app\\rwftracker.infastructure\\adapters\\raiderio\\data\\ranking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CA93B3-C8AD-4121-8DEB-271E89446DD3}|Source\\App\\RWFTracker.Infastructure\\RWFTracker.Infastructure.csproj|solutionrelative:source\\app\\rwftracker.infastructure\\adapters\\raiderio\\data\\ranking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CA93B3-C8AD-4121-8DEB-271E89446DD3}|Source\\App\\RWFTracker.Infastructure\\RWFTracker.Infastructure.csproj|e:\\bk\\_code\\rwf-tracker\\source\\app\\rwftracker.infastructure\\adapters\\raiderio\\data\\raidrankingsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CA93B3-C8AD-4121-8DEB-271E89446DD3}|Source\\App\\RWFTracker.Infastructure\\RWFTracker.Infastructure.csproj|solutionrelative:source\\app\\rwftracker.infastructure\\adapters\\raiderio\\data\\raidrankingsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CA93B3-C8AD-4121-8DEB-271E89446DD3}|Source\\App\\RWFTracker.Infastructure\\RWFTracker.Infastructure.csproj|e:\\bk\\_code\\rwf-tracker\\source\\app\\rwftracker.infastructure\\adapters\\raiderio\\data\\guild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CA93B3-C8AD-4121-8DEB-271E89446DD3}|Source\\App\\RWFTracker.Infastructure\\RWFTracker.Infastructure.csproj|solutionrelative:source\\app\\rwftracker.infastructure\\adapters\\raiderio\\data\\guild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +51,119 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\BK\\_CODE\\rwf-tracker\\Source\\App\\RWFTracker.Application\\Program.cs",
-              "RelativeDocumentMoniker": "Source\\App\\RWFTracker.Application\\Program.cs",
-              "ToolTip": "E:\\BK\\_CODE\\rwf-tracker\\Source\\App\\RWFTracker.Application\\Program.cs",
-              "RelativeToolTip": "Source\\App\\RWFTracker.Application\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "RaiderIoApiClientIntegrations.cs",
+              "DocumentMoniker": "E:\\BK\\_CODE\\rwf-tracker\\Source\\Test\\RWFTracker.Infrastructure.Tests\\Adapters\\RaiderIO\\RaiderIoApiClientIntegrations.cs",
+              "RelativeDocumentMoniker": "Source\\Test\\RWFTracker.Infrastructure.Tests\\Adapters\\RaiderIO\\RaiderIoApiClientIntegrations.cs",
+              "ToolTip": "E:\\BK\\_CODE\\rwf-tracker\\Source\\Test\\RWFTracker.Infrastructure.Tests\\Adapters\\RaiderIO\\RaiderIoApiClientIntegrations.cs",
+              "RelativeToolTip": "Source\\Test\\RWFTracker.Infrastructure.Tests\\Adapters\\RaiderIO\\RaiderIoApiClientIntegrations.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-17T14:41:27.174Z",
+              "WhenOpened": "2025-08-17T18:23:04.474Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RaiderIOTranslatorTests.cs",
+              "DocumentMoniker": "E:\\BK\\_CODE\\rwf-tracker\\Source\\Test\\RWFTracker.Infrastructure.Tests\\Adapters\\RaiderIO\\Translators\\RaiderIOTranslatorTests.cs",
+              "RelativeDocumentMoniker": "Source\\Test\\RWFTracker.Infrastructure.Tests\\Adapters\\RaiderIO\\Translators\\RaiderIOTranslatorTests.cs",
+              "ToolTip": "E:\\BK\\_CODE\\rwf-tracker\\Source\\Test\\RWFTracker.Infrastructure.Tests\\Adapters\\RaiderIO\\Translators\\RaiderIOTranslatorTests.cs",
+              "RelativeToolTip": "Source\\Test\\RWFTracker.Infrastructure.Tests\\Adapters\\RaiderIO\\Translators\\RaiderIOTranslatorTests.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAiwIQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T18:27:54.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RaiderIOTranslator.cs",
+              "DocumentMoniker": "E:\\BK\\_CODE\\rwf-tracker\\Source\\App\\RWFTracker.Infastructure\\Adapters\\RaiderIO\\Translators\\RaiderIOTranslator.cs",
+              "RelativeDocumentMoniker": "Source\\App\\RWFTracker.Infastructure\\Adapters\\RaiderIO\\Translators\\RaiderIOTranslator.cs",
+              "ToolTip": "E:\\BK\\_CODE\\rwf-tracker\\Source\\App\\RWFTracker.Infastructure\\Adapters\\RaiderIO\\Translators\\RaiderIOTranslator.cs",
+              "RelativeToolTip": "Source\\App\\RWFTracker.Infastructure\\Adapters\\RaiderIO\\Translators\\RaiderIOTranslator.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwDYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T18:27:38.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Region.cs",
+              "DocumentMoniker": "E:\\BK\\_CODE\\rwf-tracker\\Source\\App\\RWFTracker.Infastructure\\Adapters\\RaiderIO\\Data\\Region.cs",
+              "RelativeDocumentMoniker": "Source\\App\\RWFTracker.Infastructure\\Adapters\\RaiderIO\\Data\\Region.cs",
+              "ToolTip": "E:\\BK\\_CODE\\rwf-tracker\\Source\\App\\RWFTracker.Infastructure\\Adapters\\RaiderIO\\Data\\Region.cs",
+              "RelativeToolTip": "Source\\App\\RWFTracker.Infastructure\\Adapters\\RaiderIO\\Data\\Region.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T18:26:27.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Realm.cs",
+              "DocumentMoniker": "E:\\BK\\_CODE\\rwf-tracker\\Source\\App\\RWFTracker.Infastructure\\Adapters\\RaiderIO\\Data\\Realm.cs",
+              "RelativeDocumentMoniker": "Source\\App\\RWFTracker.Infastructure\\Adapters\\RaiderIO\\Data\\Realm.cs",
+              "ToolTip": "E:\\BK\\_CODE\\rwf-tracker\\Source\\App\\RWFTracker.Infastructure\\Adapters\\RaiderIO\\Data\\Realm.cs",
+              "RelativeToolTip": "Source\\App\\RWFTracker.Infastructure\\Adapters\\RaiderIO\\Data\\Realm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T18:26:20.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Guild.cs",
+              "DocumentMoniker": "E:\\BK\\_CODE\\rwf-tracker\\Source\\App\\RWFTracker.Infastructure\\Adapters\\RaiderIO\\Data\\Guild.cs",
+              "RelativeDocumentMoniker": "Source\\App\\RWFTracker.Infastructure\\Adapters\\RaiderIO\\Data\\Guild.cs",
+              "ToolTip": "E:\\BK\\_CODE\\rwf-tracker\\Source\\App\\RWFTracker.Infastructure\\Adapters\\RaiderIO\\Data\\Guild.cs",
+              "RelativeToolTip": "Source\\App\\RWFTracker.Infastructure\\Adapters\\RaiderIO\\Data\\Guild.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T18:25:51.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EncounterPull.cs",
+              "DocumentMoniker": "E:\\BK\\_CODE\\rwf-tracker\\Source\\App\\RWFTracker.Infastructure\\Adapters\\RaiderIO\\Data\\EncounterPull.cs",
+              "RelativeDocumentMoniker": "Source\\App\\RWFTracker.Infastructure\\Adapters\\RaiderIO\\Data\\EncounterPull.cs",
+              "ToolTip": "E:\\BK\\_CODE\\rwf-tracker\\Source\\App\\RWFTracker.Infastructure\\Adapters\\RaiderIO\\Data\\EncounterPull.cs",
+              "RelativeToolTip": "Source\\App\\RWFTracker.Infastructure\\Adapters\\RaiderIO\\Data\\EncounterPull.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T18:25:24.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ranking.cs",
+              "DocumentMoniker": "E:\\BK\\_CODE\\rwf-tracker\\Source\\App\\RWFTracker.Infastructure\\Adapters\\RaiderIO\\Data\\Ranking.cs",
+              "RelativeDocumentMoniker": "Source\\App\\RWFTracker.Infastructure\\Adapters\\RaiderIO\\Data\\Ranking.cs",
+              "ToolTip": "E:\\BK\\_CODE\\rwf-tracker\\Source\\App\\RWFTracker.Infastructure\\Adapters\\RaiderIO\\Data\\Ranking.cs",
+              "RelativeToolTip": "Source\\App\\RWFTracker.Infastructure\\Adapters\\RaiderIO\\Data\\Ranking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T18:24:54.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RaidRankingsResponse.cs",
+              "DocumentMoniker": "E:\\BK\\_CODE\\rwf-tracker\\Source\\App\\RWFTracker.Infastructure\\Adapters\\RaiderIO\\Data\\RaidRankingsResponse.cs",
+              "RelativeDocumentMoniker": "Source\\App\\RWFTracker.Infastructure\\Adapters\\RaiderIO\\Data\\RaidRankingsResponse.cs",
+              "ToolTip": "E:\\BK\\_CODE\\rwf-tracker\\Source\\App\\RWFTracker.Infastructure\\Adapters\\RaiderIO\\Data\\RaidRankingsResponse.cs",
+              "RelativeToolTip": "Source\\App\\RWFTracker.Infastructure\\Adapters\\RaiderIO\\Data\\RaidRankingsResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T18:23:33.682Z",
               "EditorCaption": ""
             }
           ]
